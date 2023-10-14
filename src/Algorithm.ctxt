@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Algorithm
+comment0.text=\n\ Write\ a\ description\ of\ class\ Algorithm\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=mapStudents\ enrollment
+comment1.target=Algorithm(java.util.List,\ java.util.HashMap)
+comment2.params=student
+comment2.target=boolean\ over(Student)
+comment3.params=course\ student
+comment3.target=boolean\ space(Course,\ Student)
+comment4.params=
+comment4.target=void\ forward()
+comment5.params=
+comment5.target=void\ backward()
+comment6.params=
+comment6.target=void\ run()
+comment7.params=
+comment7.target=void\ printEnrollment()
+numComments=8

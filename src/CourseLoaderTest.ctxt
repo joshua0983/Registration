@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CourseLoaderTest
+comment0.text=\n\ The\ test\ class\ CourseLoaderTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testparseAndLoadLine()
+comment2.params=
+comment2.target=void\ testparseAndLoadLineAgain()
+numComments=3
