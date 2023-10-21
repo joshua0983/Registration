@@ -3,13 +3,6 @@ import java.util.ArrayList;
 public class CourseLoader extends DataLoader
 {
     private List<Course> courses = new ArrayList<Course>();
-
-    /**
-     * Constructor calls the load(file) method in abstract parent class.
-     * 
-     * @param file: the path to the file.
-     */
-    
     CourseLoader(String file){
         load(file);
     }
