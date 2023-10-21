@@ -1,11 +1,4 @@
 import java.util.*;
-
-/**
- * Write a description of class Algorithm here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Algorithm
 {
     HashMap<Integer,PriorityQueue> map = new HashMap<>(); 
@@ -99,7 +92,7 @@ public class Algorithm
         /* Description of the algorithm from the Registrar's website:
          * 
          * Entry into a section is determined by the combination of your class year, the priority you give each section, and your draw number.
-         * Seniors’ requests are processed first followed sequentially by juniors’, sophomores’, and first-years requests.
+         * Seniorsï¿½ requests are processed first followed sequentially by juniorsï¿½, sophomoresï¿½, and first-years requests.
          * Your requests are considered in the order that you list them on the registration screen, with the first item having the highest priority. If one of your requests cannot be filled, then the next item in your list will be considered instead.
          * For your class year, your draw number determines when one of your requests is considered. Your top request is considered immediately after the top requests of all of the students in your class with lower draw numbers. As mentioned above, if your top request cannot be granted you will be enrolled in the first request on your list that can be.
          * 
