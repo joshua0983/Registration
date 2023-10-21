@@ -14,17 +14,6 @@ public class CourseLoader extends DataLoader
     }
     CourseLoader(){
     }
-
-    /**
-     * Parse a single line of CSV in the form:
-     * dept, courseNum, section, name, credits, maxEnrol, days, startTime, EndTime, Duration, String time, room, professor
-     * CMPU,145,51,Foundations/Computer Science,1,24,TRF,720,795,75,1200PM-0115PM,SP 309,Gomerschdat Anna
-     * 
-     * Method should create a new Course Object and add it to 
-     * the students instance variable.
-     * 
-     * @param data: a single line from the csv file.
-     */
     public void parseAndLoadLine(String data){
         try{
         String[] parts = data.split(",");
