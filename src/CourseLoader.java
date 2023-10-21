@@ -1,12 +1,5 @@
 import java.util.List;
 import java.util.ArrayList;
-
-/**
- * Write a description of class CourseLoader here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class CourseLoader extends DataLoader
 {
     private List<Course> courses = new ArrayList<Course>();
