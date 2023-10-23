@@ -5,12 +5,6 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-/**
- * The test class CourseTest.
- *
- * @author  (your name)
- * @version (a version number or a date)
- */
 public class CourseTest
 {
     @Test
