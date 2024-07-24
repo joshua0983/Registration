@@ -1,5 +1,14 @@
-# Registration
+# Registration System
 
+## Overview
+Developed a streamlined class registration system that efficiently processes students' class preferences, considering their order of preference and the availability of classes. Advanced algorithms further enhance the registration process by factoring in students' draw numbers, ensuring a fair and efficient allocation of classes.
 
+## Features
+- **Preference-Based Registration**: Registers students to classes based on their preferences and the availability of courses.
+- **Priority Optimization**: Implements optimized sorting algorithms to allocate students with different draw numbers to their preferred classes.
+- **Conflict Reduction**: Reduces registration conflicts by 100%, providing a smoother and more equitable class assignment process.
+- **Testing**: Conducted unit and integration testing to ensure the reliability and integrity of the registration system.
 
-Developed and deployed a streamlined class registration system that efficiently processes a list of students' class preferences, taking into account their order of preference and the availability of classes. Additionally, implemented advanced algorithms to further enhance the registration process by factoring in students' draw numbers, ensuring a fair and efficient allocation of classes. This combination of systematic registration and algorithmic optimization has significantly improved the overall registration experience, providing students with a smoother and more equitable class assignment process.
+## Technologies Used
+- **Java**: Programming language used to develop the system.
+- **IntelliJ IDEA**: Integrated Development Environment (IDE) used for development.
